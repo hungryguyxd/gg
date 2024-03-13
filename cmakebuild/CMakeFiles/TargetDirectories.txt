@@ -1,0 +1,6 @@
+/Users/maga/Documents/tp-2024-abdullabekov-soroko/cmakebuild/CMakeFiles/TextRPG.dir
+/Users/maga/Documents/tp-2024-abdullabekov-soroko/cmakebuild/CMakeFiles/edit_cache.dir
+/Users/maga/Documents/tp-2024-abdullabekov-soroko/cmakebuild/CMakeFiles/rebuild_cache.dir
+/Users/maga/Documents/tp-2024-abdullabekov-soroko/cmakebuild/src/CMakeFiles/SourceLibrary.dir
+/Users/maga/Documents/tp-2024-abdullabekov-soroko/cmakebuild/src/CMakeFiles/edit_cache.dir
+/Users/maga/Documents/tp-2024-abdullabekov-soroko/cmakebuild/src/CMakeFiles/rebuild_cache.dir
